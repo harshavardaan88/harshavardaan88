@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harsha
-- 🌱 I’m currently learning Node js
+- 🌱 I’m currently working on Node js
 - 📫 How to reach me : harshavardaan@sharechat.co
 
 <!---
